@@ -42,11 +42,10 @@ body {
   background: #111;
   padding: 15px 20px;
   border-radius: 5px;
-  display: block;
-  margin: 20px auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 20px auto;
 }
 
 .wrapper .otp-box .otp {
